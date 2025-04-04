@@ -49,7 +49,11 @@ Clear Button  | Resets all input fields
 
 ## ⚠️ Important Notes
 - Data is stored in manager_data.csv (plaintext)
-
+  
+## 💡 Why Built?  
+- Practice Python GUI development  
+- Solve my own password management chaos  
+- Learn Pandas for local data storage  
 ## 📜 License
 MIT © Juda
 
