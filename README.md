@@ -1,3 +1,9 @@
+[![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=white)](#)
+[![Tkinter](https://img.shields.io/badge/Tkinter-GUI-green?logo=python&logoColor=white)](#)
+
+[![Portable](https://img.shields.io/badge/Portable-No_Install-9cf?logo=windows)](#)
+[![Clipboard](https://img.shields.io/badge/Copy_to_Clipboard-00bfff?logo=clipboard)](#)
+
 # 🔒 Password Manager - Tkinter
 
 A secure desktop application for managing passwords, built with Python and Tkinter. Stores credentials locally in CSV format with easy search and generation capabilities.
@@ -20,9 +26,9 @@ A secure desktop application for managing passwords, built with Python and Tkint
 
 ## 📦 Installation
 
-1. [Descargar Password Manager - Portable.rar](https://github.com/Juda-Tech-Green/password-manager/raw/main/Password%20Manager%20-%20Portable.rar?download=1)
+1. Download: [Password Manager - Portable.rar](https://github.com/Juda-Tech-Green/password-manager/raw/main/Password%20Manager%20-%20Portable.rar?download=1)
 
-2. Enjoy!
+2. Unzip and enjoy!
 
 ## 🎮 How to Use
 1. **Add new entry:**
