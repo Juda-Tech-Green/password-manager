@@ -1,6 +1,5 @@
 [![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=white)](#)
 [![Tkinter](https://img.shields.io/badge/Tkinter-GUI-green?logo=python&logoColor=white)](#)
-
 [![Portable](https://img.shields.io/badge/Portable-No_Install-9cf?logo=windows)](#)
 [![Clipboard](https://img.shields.io/badge/Copy_to_Clipboard-00bfff?logo=clipboard)](#)
 
